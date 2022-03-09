@@ -1,0 +1,14 @@
+chiedo in input 2 numeri, divido con il metodo sottrazioni successive
+
+! usando solo la sottrazioni
+
+( 17 / 3 = 5 con resto di 2 )
+
+17 - 3 = 14             1
+14 - 3 = 11             2
+11 - 3 = 8              3
+... 5                   4
+5 - 3 = 2            -> 5 <-
+2 <- R
+
+

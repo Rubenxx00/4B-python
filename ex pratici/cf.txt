@@ -1,0 +1,14 @@
+Scrivere un programma che chieda all'utente nome, cognome, data di nascita, sesso e ne produca il codice fiscale (componente fino a Giorno di nascita e sesso (due cifre) compreso).
+NB: per nome e cognome includere anche le vocali per semplicità
+NB: ipotesi che le lettere dei mesi siano in ordine alfabetico (senza buchi)
+
+16/3/2004
+04C
+3 -> marzo -> C (3 caratteri DOPO la "A")
+
+>>> ord('a')
+97
+>>> chr(97)
+'a'
+
+https://it.wikipedia.org/wiki/Codice_fiscale
