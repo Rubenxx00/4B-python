@@ -28,6 +28,6 @@
 
 * [W3schools](https://www.w3schools.com/python/default.asp)
 * [Python ABC](https://pythonitalia.github.io/python-abc/)
-
+* Nice tutorial [DelftStack](https://www.delftstack.com/it/tutorial/python-3-basic-tutorial/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
