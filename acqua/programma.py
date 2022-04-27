@@ -10,7 +10,7 @@ def istogramma(li):
 tipologia = input("privato o azienda? (p/a)")
 
 
-mesi = list(range(1,2+1))
+mesi = list(range(1,12+1))
 consumi = []
 tariffe = []
 totale_annuo = 0
