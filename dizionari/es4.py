@@ -1,4 +1,3 @@
-
 def istogramma(diz):
     for lettera in diz:
         print(lettera + ': ', end='')
@@ -36,5 +35,3 @@ for lettera in testo:
             d[lettera] = d[lettera] + 1
         else:
             d[lettera] = 1
-
-print(istogramma(d))
