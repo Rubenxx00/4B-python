@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 9.1859,
+        "lat": 45.4654
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "cielo coperto",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 292.09,
+        "feels_like": 292.1,
+        "temp_min": 288.19,
+        "temp_max": 293.52,
+        "pressure": 1012,
+        "humidity": 79
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.68,
+        "deg": 49,
+        "gust": 4.92
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1653460209,
+    "sys": {
+        "type": 2,
+        "id": 2012644,
+        "country": "IT",
+        "sunrise": 1653450196,
+        "sunset": 1653505044
+    },
+    "timezone": 7200,
+    "id": 6542283,
+    "name": "Comune di Milano",
+    "cod": 200
+}
