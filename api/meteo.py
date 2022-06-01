@@ -37,6 +37,10 @@ print("temperature ->", diz["main"])
 air_quality_url = f"http://api.openweathermap.org/data/2.5/air_pollution?lat={lat}&lon={lon}&appid={key}"
 risposta = requests.get(air_quality_url)
 diz = risposta.json()
+indice_qualità = diz["list"][0]["main"]["aqi"]
+componenti = diz["list"][0]["components"]
+print("Qualità aria (1-buono, 5-pessimo) -> ", indice_qualità)
+print("Componenti aria -> ", componenti)
 
 
 # programma che, dopo aver chiesto in input coordinate geografiche, chiami API e stampi il meteo
